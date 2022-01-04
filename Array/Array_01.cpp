@@ -11,6 +11,7 @@ int main(){
 	//Input 
 	for(int i=0; i<n; i++){
 		cin>> arr[i];
+		arr[i] = arr[i]*2;
 	}
 
 	//output
